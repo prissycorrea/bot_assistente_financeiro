@@ -1,0 +1,30 @@
+# Credenciais e arquivos sensíveis
+credenciais.json
+config.py
+.env
+.env.local
+env_example.txt
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
